@@ -8,7 +8,7 @@ body {
 
 @font-face {
   font-family: Inter;
-  src: url('Font/InterFont.ttf');
+  src: url('InterFont.ttf');
 }
 
 .hide {
